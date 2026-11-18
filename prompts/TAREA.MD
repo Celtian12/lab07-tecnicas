@@ -35,6 +35,41 @@ Además de ello ten en cuenta el uso de comentarios y el código optimizado asi 
 <formato>Implementación con comentarios del paso a paso didactica de las clases.</formato>
 ```
 
+## Prompt mejorado
+
+```text
+<rol>
+Actúa como un diseñador experto en arquitecturas orientadas a objetos y como un programador especializado en el diseño e implementación de clases.
+</rol>
+
+<contexto>
+Debes implementar el diseño de clases de una solución de software que siga principios SOLID, sea mantenible y permita separar responsabilidades.
+</contexto>
+
+<tarea>
+Analiza el problema paso a paso y explica:
+
+1. Las clases necesarias.
+2. Los atributos y métodos de cada clase.
+3. Las relaciones entre las clases.
+4. Los principios SOLID aplicados.
+5. La implementación completa del código.
+6. Ejemplos sencillos de uso.
+
+Primero presenta el razonamiento didáctico y después proporciona el código final organizado.
+</tarea>
+
+<formato>
+- Explica cada decisión antes de mostrar su implementación.
+- Incluye comentarios didácticos dentro de las clases.
+- Utiliza nombres claros y consistentes.
+- Agrega ejemplos de instanciación y ejecución.
+- Indica las posibles extensiones o mejoras.
+- Especifica el lenguaje de programación antes de responder.
+</formato>
+
+```
+
 | Tecnicas Usadas    | Parte del promt final                                            |
 | ------------------ | ---------------------------------------------------------------- |
 | Chain of Thought   | Piensa paso a paso que puede implemetar y escribelo              |
