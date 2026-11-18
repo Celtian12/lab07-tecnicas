@@ -91,4 +91,4 @@ La tecnicas usadas fueron del paso a paso asi como Chain of Thought, asi como el
 
 ## Por que elegi estas tecnicas
 
-Chain of Thought y el prompt estucturado con el paso a paso se dieron porque considero que estas técnicas son las más útiles para la implementación de un prompt para un proyecto como el que implementé
+Chain of Thought y el prompt estucturado con el paso a paso se dieron porque considero que estas técnicas son las más útiles para la implementación de un prompt para un proyecto como el que implemente
