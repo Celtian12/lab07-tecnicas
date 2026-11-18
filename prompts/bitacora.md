@@ -63,5 +63,3 @@ En el otro paso se puso a implementar los atributos, constructor y los métodos 
 Revisa tu tabla: faltan casos limite como campos vacios, correo sin @
 o contrasena con espacios? Agrega los que falten e indica cuales agregaste.
 ```
-
-- [Bitacora de tecnicas avanzadas](prompts/bitacora.md)
